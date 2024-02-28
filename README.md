@@ -1,7 +1,7 @@
 # Unit Convertert App
 
 ## About
-An app, which takes the input in kilos and converts it inoto pounds.
+An app, which takes the input in kilos and converts it into pounds.
 
 ## Features
 - conversion from kilograms to pounds
