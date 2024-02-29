@@ -15,6 +15,12 @@ An app, which takes the input in kilos and converts it into pounds.
 ## Preview
 
 
-https://github.com/iamhruthiks/Unit-Converter-App/assets/141637257/903050ba-7cb2-4a0e-a9b9-91f7344ddc8d
+https://github.com/iamhruthiks/Unit-Converter-App/assets/141637257/23f2b2b6-20df-4836-bf90-88924e42afbe
+
+
+
+
+
+
 
 
