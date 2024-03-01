@@ -4,8 +4,8 @@
 An app, which takes the input in kilos and converts it into pounds.
 
 ## Features
-- conversion from kilograms to pounds
-- resetting the kilograms
+- Conversion from kilograms to pounds
+- Resetting the kilograms
 - Dark mode
 
 ## Technologies/Tools used
