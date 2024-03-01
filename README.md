@@ -9,8 +9,8 @@ An app, which takes the input in kilos and converts it into pounds.
 - Dark mode
 
 ## Technologies/Tools used
-- Java - used as a primary programming language for backend development.
 - Android Studio Hedgehog | 2023.1.1 Patch 2
+- Java - used as a primary programming language for backend development.
 
 ## Preview
 
